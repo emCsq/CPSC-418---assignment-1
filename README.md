@@ -1,10 +1,10 @@
 List of files submitted:
 
-o	secureFile.java
+-	secureFile.java
 
-o	decryptFile.java
+-	decryptFile.java
 
-o	~Description File.pdf (aka this file)
+-	~Description File.pdf (aka this file)
 
 
 Message Authentication Algorithms used
